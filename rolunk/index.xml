@@ -10,5 +10,32 @@
 	<atom:link href="https://gellakuria.hu/rolunk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Balatonszőlős története</title>
+      <link>https://gellakuria.hu/rolunk/balatonszolos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/rolunk/balatonszolos/</guid>
+      <description>A falu rövid története</description>
+    </item>
+    
+    <item>
+      <title>Mi van a közelben?</title>
+      <link>https://gellakuria.hu/rolunk/kozelben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/rolunk/kozelben/</guid>
+      <description>Közeli programlehetőségek, gasztronómia, bevásárlás, stb.</description>
+    </item>
+    
+    <item>
+      <title>Túrázási lehetőségek</title>
+      <link>https://gellakuria.hu/rolunk/turazas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/rolunk/turazas/</guid>
+      <description>Balatonszőlősről induló gyalogos kirándulási lehetőségek, fotótúra-pontok és ajánlott túra-útvonalak</description>
+    </item>
+    
   </channel>
 </rss>

@@ -12,6 +12,29 @@
     
     
     <item>
+      <title>Házirend</title>
+      <link>https://gellakuria.hu/hazirend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/hazirend/</guid>
+      <description>Házirend és FONTOS Tudnivalók: A Kúria teljes területén TILOS a dohányzás! Dohányozni csak az arra kijelölt helyen, külterületen, lehet! Ennek be nem tartása, felárat vonhat maga után. Óvd magad és környezeted egészségét, NE Dohányozz!
+A szálláshely jelenleg sajnos nem tud házi kedvenceket fogadni! Reméljük pihenésed idejére találsz megoldást számára / számukra és nem lesz szomorú sem a kispajtás, sem Ti ezalatt a néhány nap alatt.
+Bejelentkezni 15.00 és 18.00 óra között lehet.</description>
+    </item>
+    
+    <item>
+      <title>Kapcsolat</title>
+      <link>https://gellakuria.hu/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/contact/</guid>
+      <description>A következő elérhetőségeinken keress minket:
+   Telefon:        Sáthy Kinga: +36 20 566 96 65    Sáthy Kornél: +36 20 568 64 30       Email:       gella.kuria@gmail.com    
+
+   GPS koordináták:       É 46,983321°    K 17,802932°    </description>
+    </item>
+    
+    <item>
       <title>Teljes ház</title>
       <link>https://gellakuria.hu/apartmanok/teljes_haz/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
@@ -48,15 +71,30 @@
     </item>
     
     <item>
-      <title>Kapcsolat</title>
-      <link>https://gellakuria.hu/contact/</link>
+      <title>Balatonszőlős története</title>
+      <link>https://gellakuria.hu/rolunk/balatonszolos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gellakuria.hu/contact/</guid>
-      <description>A következő elérhetőségeinken keress minket:
-   Telefon:        Sáthy Kinga: +36 20 566 96 65    Sáthy Kornél: +36 20 568 64 30       Email:       gella.kuria@gmail.com    
-
-   GPS koordináták:       É 46,983321°    K 17,802932°    </description>
+      <guid>https://gellakuria.hu/rolunk/balatonszolos/</guid>
+      <description>A falu rövid története</description>
+    </item>
+    
+    <item>
+      <title>Mi van a közelben?</title>
+      <link>https://gellakuria.hu/rolunk/kozelben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/rolunk/kozelben/</guid>
+      <description>Közeli programlehetőségek, gasztronómia, bevásárlás, stb.</description>
+    </item>
+    
+    <item>
+      <title>Túrázási lehetőségek</title>
+      <link>https://gellakuria.hu/rolunk/turazas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/rolunk/turazas/</guid>
+      <description>Balatonszőlősről induló gyalogos kirándulási lehetőségek, fotótúra-pontok és ajánlott túra-útvonalak</description>
     </item>
     
   </channel>
