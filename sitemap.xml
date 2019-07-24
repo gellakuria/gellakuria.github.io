@@ -16,6 +16,12 @@
   </url>
   
   <url>
+    <loc>https://gellakuria.hu/borok/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://gellakuria.hu/hazirend/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
