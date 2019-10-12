@@ -6,6 +6,16 @@
     <loc>https://gellakuria.hu/rolunk/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/rolunk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/rolunk/"
+                />
   </url>
   
   <url>
@@ -13,24 +23,64 @@
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/apartmanok/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/apartmanok/"
+                />
   </url>
   
   <url>
     <loc>https://gellakuria.hu/borok/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/borok/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/borok/"
+                />
   </url>
   
   <url>
     <loc>https://gellakuria.hu/hazirend/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/hazirend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/hazirend/"
+                />
   </url>
   
   <url>
     <loc>https://gellakuria.hu/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/contact/"
+                />
   </url>
   
   <url>
@@ -38,6 +88,16 @@
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/"
+                />
   </url>
   
   <url>
@@ -45,6 +105,16 @@
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/apartmanok/teljes_haz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/apartmanok/teljes_haz/"
+                />
   </url>
   
   <url>
@@ -52,6 +122,16 @@
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/apartmanok/apartman-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/apartmanok/apartman-1/"
+                />
   </url>
   
   <url>
@@ -59,6 +139,16 @@
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/apartmanok/apartman-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/apartmanok/apartman-3/"
+                />
   </url>
   
   <url>
@@ -66,6 +156,16 @@
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/apartmanok/apartman-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/apartmanok/apartman-2/"
+                />
   </url>
   
   <url>
@@ -77,17 +177,47 @@
   <url>
     <loc>https://gellakuria.hu/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/categories/"
+                />
   </url>
   
   <url>
     <loc>https://gellakuria.hu/rolunk/kozelben/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/rolunk/kozelben/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/rolunk/kozelben/"
+                />
   </url>
   
   <url>
     <loc>https://gellakuria.hu/tags/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/tags/"
+                />
   </url>
   
   <url>
