@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Szobák on Gella Kúria</title>
+    <link>https://gellakuria.hu/apartmanok/</link>
+    <description>Recent content in Szobák on Gella Kúria</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 23 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gellakuria.hu/apartmanok/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teljes ház</title>
+      <link>https://gellakuria.hu/apartmanok/teljes_haz/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/apartmanok/teljes_haz/</guid>
+      <description>6 hálószoba, 3 fürdő, konyha, 12 fő részére</description>
+    </item>
+    
+    <item>
+      <title>Levendula apartman</title>
+      <link>https://gellakuria.hu/apartmanok/apartman-1/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/apartmanok/apartman-1/</guid>
+      <description>2 földszinti szoba, fürdőszobával</description>
+    </item>
+    
+    <item>
+      <title>Pipacs apartman</title>
+      <link>https://gellakuria.hu/apartmanok/apartman-3/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/apartmanok/apartman-3/</guid>
+      <description>2 emeleti szoba, fürdőszobával</description>
+    </item>
+    
+    <item>
+      <title>Sáfrány apartman</title>
+      <link>https://gellakuria.hu/apartmanok/apartman-2/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gellakuria.hu/apartmanok/apartman-2/</guid>
+      <description>2 emeleti szoba, fürdőszobával</description>
+    </item>
+    
+  </channel>
+</rss>
