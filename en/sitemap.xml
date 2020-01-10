@@ -68,6 +68,22 @@
   </url>
   
   <url>
+    <loc>https://gellakuria.hu/en/galeria/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/galeria/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/galeria/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gellakuria.hu/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
