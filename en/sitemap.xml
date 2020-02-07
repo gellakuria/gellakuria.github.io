@@ -200,6 +200,22 @@
   </url>
   
   <url>
+    <loc>https://gellakuria.hu/en/rolunk/turazas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://gellakuria.hu/rolunk/turazas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gellakuria.hu/en/rolunk/turazas/"
+                />
+  </url>
+  
+  <url>
     <loc>https://gellakuria.hu/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
