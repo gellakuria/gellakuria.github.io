@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About us on Mansion Gella</title>
     <link>https://gellakuria.hu/en/rolunk/</link>
     <description>Recent content in About us on Mansion Gella</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://gellakuria.hu/en/rolunk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://gellakuria.hu/en/rolunk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hiking opportunities</title>
       <link>https://gellakuria.hu/en/rolunk/turazas/</link>

@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gella Kúria</title>
     <link>https://gellakuria.hu/</link>
     <description>Recent content on Gella Kúria</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gellakuria.hu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gellakuria.hu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Borkínálat</title>
       <link>https://gellakuria.hu/borok/</link>
@@ -46,9 +42,7 @@ Bejelentkezni 15.00 és 18.00 óra között lehet. Kijelentkezni, a szálláshel
       
       <guid>https://gellakuria.hu/contact/</guid>
       <description>A következő elérhetőségeinken keress minket:
-   Telefon:        Sáthy Kinga: +36 20 566 96 65    Sáthy Kornél: +36 20 568 64 30       Email:       gella.kuria@gmail.com    
-
-   GPS koordináták:       É 46,983321°    K 17,802932°    </description>
+   Telefon:          Gaál Kinga: +36 20 566 96 65       Email:         gella.kuria@gmail.com       GPS koordináták:         É 46,983321°     K 17,802932°    </description>
     </item>
     
     <item>

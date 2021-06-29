@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://gellakuria.hu/rolunk/</loc>
     <changefreq>monthly</changefreq>
@@ -16,9 +15,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/rolunk/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/apartmanok/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,9 +30,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/apartmanok/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/borok/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -49,9 +44,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/borok/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/hazirend/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -65,9 +58,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/hazirend/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/galeria/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -81,9 +72,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/galeria/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -97,9 +86,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -114,9 +101,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/apartmanok/teljes_haz/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -131,9 +116,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/apartmanok/teljes_haz/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/apartmanok/apartman-1/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -148,9 +131,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/apartmanok/apartman-1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/apartmanok/apartman-3/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -165,9 +146,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/apartmanok/apartman-3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/apartmanok/apartman-2/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -182,17 +161,14 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/apartmanok/apartman-2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/rolunk/balatonszolos/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/categories/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -203,9 +179,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/rolunk/kozelben/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -219,11 +193,10 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/rolunk/kozelben/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/tags/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -234,9 +207,7 @@
                 hreflang="hu"
                 href="https://gellakuria.hu/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gellakuria.hu/rolunk/turazas/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -251,5 +222,4 @@
                 href="https://gellakuria.hu/rolunk/turazas/"
                 />
   </url>
-  
 </urlset>

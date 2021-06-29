@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gella Kúria on Mansion Gella</title>
     <link>https://gellakuria.hu/en/</link>
     <description>Recent content in Gella Kúria on Mansion Gella</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://gellakuria.hu/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://gellakuria.hu/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Our wines</title>
       <link>https://gellakuria.hu/en/borok/</link>
@@ -44,9 +40,7 @@
       
       <guid>https://gellakuria.hu/en/contact/</guid>
       <description>You can reach out to us in the following ways:
-   Phone:        Kinga Sáthy: +36 20 566 96 65    Kornél Sáthy: +36 20 568 64 30       E-mail:       gella.kuria@gmail.com    
-
-   GPS coordinates:       N 46,983321°    E 17,802932°    </description>
+   Phone:           Kinga Gaál: +36 20 566 96 65       E-mail:         gella.kuria@gmail.com       GPS coordinates:         N 46,983321°     E 17,802932°    </description>
     </item>
     
     <item>
